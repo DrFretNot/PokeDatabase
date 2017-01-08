@@ -1542,3 +1542,171 @@ INSERT INTO POKEDEX VALUES('Hoopa',720,'Psychic','Dark',NULL,'Unbound')
 COMMIT
 INSERT INTO POKEDEX VALUES('Volcanion',721,'Fire','Water',NULL,'Standard')
 COMMIT
+INSERT INTO POKEDEX VALUES('Rowlet',722,'Grass','Flying',1,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Dartrix',723,'Grass','Flying',2,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Decidueye',724,'Grass','Ghost',3,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Litten',725,'Fire','',4,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Torracat',726,'Fire','',5,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Incineroar',727,'Fire','Dark',6,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Popplio',728,'Water','',7,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Brionne',729,'Water','',8,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Primarina',730,'Water','Fairy',9,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Pikipek',731,'Normal','Flying',10,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Trumbeak',732,'Normal','Flying',11,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Toucannon',733,'Normal','Flying',12,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Yungoos',734,'Normal','',13,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Gumshoos',735,'Normal','',14,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Grubbin',736,'Bug','',27,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Charjabug',737,'Bug','Electric',28,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Vikavolt',738,'Bug','Electric',29,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Crabrawler',739,'Fighting','',59,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Crabominable',740,'Fighting','Ice',60,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Oricorio',741,'Fire','Flying',82,'Baile')
+COMMIT
+INSERT INTO POKEDEX VALUES('Oricorio',741,'Fire','Flying',82,'Pom-Pom')
+COMMIT
+INSERT INTO POKEDEX VALUES('Oricorio',741,'Fire','Flying',82,'Pau')
+COMMIT
+INSERT INTO POKEDEX VALUES('Oricorio',741,'Fire','Flying',82,'Sensu')
+COMMIT
+INSERT INTO POKEDEX VALUES('Cutiefly',742,'Bug','Fairy',83,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Ribombee',743,'Bug','Fairy',84,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Rockruff',744,'Rock','',103,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Lycanroc',745,'Rock','',104,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Wishiwashi',746,'Water','',110,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Mareanie',747,'Poison','Water',113,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Toxapex',748,'Poison','Water',114,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Mudbray',749,'Ground','',132,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Mudsdale',750,'Ground','',133,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Dewpider',751,'Water','Bug',141,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Araquanid',752,'Water','Bug',142,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Fomantis',753,'Grass','',143,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Lurantis',754,'Grass','',144,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Morelull',755,'Grass','Fairy',145,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Shiinotic',756,'Grass','Fairy',146,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Salandit',757,'Poison','Fire',161,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Salazzle',758,'Poison','Fire',162,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Stufful',759,'Normal','Fighting',169,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Bewear',760,'Normal','Fighting',170,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Bounsweet',761,'Grass','',171,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Steenee',762,'Grass','',172,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Tsareena',763,'Grass','',173,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Comfey',764,'Fairy','',174,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Oranguru',765,'Normal','Psychic',176,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Passimian',766,'Fighting','',177,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Wimpod',767,'Bug','Water',182,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Golisopod',768,'Bug','Water',183,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Sandygast',769,'Ghost','Ground',186,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Palossand',770,'Ghost','Ground',187,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Pyukumuku',771,'Water','',200,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Type: Null',772,'Normal','',203,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Silvally',773,'Normal','',204,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Minior',774,'Rock','Flying',213,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Komala',775,'Normal','',222,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Turtonator',776,'Fire','Dragon',224,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Togedemaru',777,'Electric','Steel',225,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Mimikyu',778,'Ghost','Fairy',242,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Bruxish',779,'Water','Psychic',243,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Drampa',780,'Normal','Dragon',244,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Dhelmise',781,'Ghost','Grass',263,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Jangmo-o',782,'Dragon','',271,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Hakamo-o',783,'Dragon','Fighting',272,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Kommo-o',784,'Dragon','Fighting',273,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Tapu Koko',785,'Electric','Fairy',285,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Tapu Lele',786,'Psychic','Fairy',286,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Tapu Bulu',787,'Grass','Fairy',287,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Tapu Fini',788,'Water','Fairy',288,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Cosmog',789,'Psychic','',289,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Cosmoem',790,'Psychic','',290,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Solgaleo',791,'Psychic','Steel',291,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Lunala',792,'Psychic','Ghost',292,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Nihilego',793,'Rock','Poison',293,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Buzzwole',794,'Bug','Fighting',294,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Pheromosa',795,'Bug','Fighting',295,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Xurkitree',796,'Electric','',296,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Celesteela',797,'Steel','Flying',297,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Kartana',798,'Grass','Steel',298,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Guzzlord',799,'Dark','Dragon',299,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Necrozma',800,'Psychic','',300,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Magearna',801,'Steel','Fairy',301,'Standard')
+COMMIT
+INSERT INTO POKEDEX VALUES('Marshadow',802,'Fighting','Ghost',302,'Standard')
+COMMIT
