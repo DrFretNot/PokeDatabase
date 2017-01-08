@@ -5,3 +5,6 @@ COMMIT
 CREATE TABLE Pokedex\u000a(\u000aPokemon varchar(20),\u000aNationalID int,\u000aType1 varchar(20),\u000aType2 varchar(20),\u000aAlolaID int\u000a)
 CREATE TABLE CompetitivePC\u000a(\u000aNationalID int,\u000aNickname varchar(12),\u000aAbility varchar(20),\u000aNature varchar(20),\u000aHoldItem varchar(20),\u000aMove1 varchar(20),\u000aMove2 varchar(20),\u000aMove3 varchar(20),\u000aMove4 varchar(20),\u000aHP int,\u000aATK int,\u000aDEF int,\u000aSPATK int,\u000aSPDEF int,\u000aSPD int,\u000a)
 ALTER TABLE POKEDEX\u000aADD PRIMARY KEY (NationalID)
+ALTER TABLE POKEDEX\u000aADD FORM varchar(20)
+ALTER TABLE POKEDEX\u000aDROP PRIMARY KEY
+ALTER TABLE POKEDEX\u000aADD PRIMARY KEY (NationalID, FORM)
