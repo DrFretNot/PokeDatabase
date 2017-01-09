@@ -1710,3 +1710,6 @@ INSERT INTO POKEDEX VALUES('Magearna',801,'Steel','Fairy',301,'Standard')
 COMMIT
 INSERT INTO POKEDEX VALUES('Marshadow',802,'Fighting','Ghost',302,'Standard')
 COMMIT
+Alter TABLE CompetitivePC\u000aAdd Form varchar(20)
+Alter TABLE CompetitivePC\u000aAdd Role varchar(30)
+ALTER TABLE CompetitivePC\u000aADD PRIMARY KEY (NationalID, Nickname, Form, Ability, Nature, Role)
