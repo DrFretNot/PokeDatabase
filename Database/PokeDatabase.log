@@ -1713,3 +1713,4 @@ COMMIT
 Alter TABLE CompetitivePC\u000aAdd Form varchar(20)
 Alter TABLE CompetitivePC\u000aAdd Role varchar(30)
 ALTER TABLE CompetitivePC\u000aADD PRIMARY KEY (NationalID, Nickname, Form, Ability, Nature, Role)
+DISCONNECT
